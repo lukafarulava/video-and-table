@@ -1,6 +1,13 @@
-table , th {background-color: green;}
-table , td {background-color: rgb(135, 135, 178);}
-table {border-color: black;
+table , th {
+  background-color: green;
+}
+
+table , td {
+background-color: rgb(135, 135, 178)
+}
+                     
+table {
+  border-color: black;
 border: 2px;
 border-radius: 15px;
 overflow: hidden;}
